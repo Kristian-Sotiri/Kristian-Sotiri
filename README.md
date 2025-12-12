@@ -21,19 +21,19 @@ I bridge the gap between **creative storytelling** and **technical logic**. My g
 
 ### 🚀 Featured Projects
 
-#### 🔐 **[Secure Financial Data Transfer System]** *(Java)*
+#### 🔐 **[Secure Financial Data Transfer System](https://github.com/Kristian-Sotiri/Secure-Financial-Data-Transfer)** *(Java)*
 *Refactored legacy code to secure sensitive client data.*
 - **Focus:** Software Security, Encryption, OWASP Standards.
 - **Key Feature:** Implemented SHA-256 checksums for file verification and conducted full dependency vulnerability assessments.
 - **Result:** Secured data transmission for a simulated financial client (Artemis Financial).
 
-#### 📚 **[University Course Lookup System]** *(C++)*
+#### 📚 **[University Course Lookup System](https://github.com/Kristian-Sotiri/University-Course-Lookup-System)** *(C++)*
 *High-performance data tool for academic advisors.*
 - **Focus:** Data Structures & Algorithms (DSA), Memory Management.
 - **Key Feature:** Utilized **Vector** data structures and alphanumeric sorting algorithms to parse and display course prerequisites.
 - **Result:** Optimized runtime performance for large datasets.
 
-#### 🛒 **[Grocery Frequency Analyzer]** *(C++)*
+#### 🛒 **[Grocery Frequency Analyzer](https://github.com/Kristian-Sotiri/Grocery-Item-Frequency-Analyzer)** *(C++)*
 *Inventory tracking tool for purchase pattern analysis.*
 - **Focus:** Object-Oriented Programming (OOP), File I/O.
 - **Key Feature:** Used **Map** data structures to track item frequency from text records to help store managers optimize layouts.
